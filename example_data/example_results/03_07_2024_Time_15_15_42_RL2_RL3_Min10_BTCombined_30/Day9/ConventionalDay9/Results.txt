@@ -1,0 +1,6 @@
+Objective Surplus Energy [kWh]: 0.0
+Objective Peak Load [kW]: 135.46
+Objective Costs [Euro]: 600.13
+Objective Gas Consumption [kWh]: 0.0
+Objective Thermal Discomfort: 0.01
+Objective Score: 0.0

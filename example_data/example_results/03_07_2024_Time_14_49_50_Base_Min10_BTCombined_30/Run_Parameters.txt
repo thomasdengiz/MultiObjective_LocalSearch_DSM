@@ -1,0 +1,5 @@
+max_population_size: 20
+number_of_pareto_optimal_solutions_in_population: 12
+number_of_new_solutions_per_solution_in_iteration: 3
+number_of_iterations_local_search: 12
+time_limit_in_seconds_for_local_search: 600

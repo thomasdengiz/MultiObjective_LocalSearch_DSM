@@ -1,0 +1,38 @@
+Consider objective Surplus Energy: False
+Consider objective Peak Load: False
+Consider objective Costs: True
+
+Objective Surplus Energy [kWh]: 0.0
+Objective Peak Load [kW]: 198.54
+Objective Costs [Euro]: -46.11
+Objective Thermal  Discomfort [°C]: 0.27
+Objective Score: -4611.19
+
+
+Correction stats
+
+
+correctingStats_BT1_heatGenerationCoefficientSpaceHeating_numberOfTimeSlots [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT1_heatGenerationCoefficientSpaceHeating_sumOfCorrections [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT1_heatGenerationCoefficientDHW_numberOfTimeSlots [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT1_heatGenerationCoefficientDHW_sumOfCorrections [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT1_chargingPowerEV_numberOfTimeSlots [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT1_chargingPowerEV_sumOfCorrections [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+
+correctingStats_BT2_heatGenerationCoefficientSpaceHeating_numberOfTimeSlots [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT2_heatGenerationCoefficientSpaceHeating_sumOfCorrections [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT2_heatGenerationCoefficientDHW_numberOfTimeSlots [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+correctingStats_BT2_heatGenerationCoefficientDHW_sumOfCorrections [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+
+correctingStats_BT3_chargingPowerEV_numberOfTimeSlots []
+correctingStats_BT3_chargingPowerEV_sumOfCorrections []
+
+correctingStats_BT4_heatGenerationCoefficientSpaceHeating_numberOfTimeSlots [0. 0. 0. 0. 0. 0.]
+correctingStats_BT4_heatGenerationCoefficientSpaceHeating_sumOfCorrections [0. 0. 0. 0. 0. 0.]
+
+correctingStats_BT5_chargingPowerBAT_numberOfTimeSlots []
+correctingStats_BT5_chargingPowerBAT_sumOfCorrections []
+
+correctingStats_BT5_chargingPowerBAT_numberOfTimeSlots []
+correctingStats_BT5_chargingPowerBAT_sumOfCorrections []
+
