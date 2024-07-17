@@ -9,7 +9,7 @@ This repository contains the code for the paper ```Pareto local search for a mul
 
 
 <p align="center">
-  <img src="https://github.com/thomasdengiz/MultiOpt_RL/assets/26788796/23f8b4f0-ca44-409f-a712-65595a747911" alt="Schema_Pareto_Local_Search" style="width: 500px;"/>
+  <img src="https://github.com/user-attachments/assets/90ba2af1-8e77-40e3-a536-933e78536633" alt="Schema_Pareto_Local_Search" style="width: 500px;"/>
 </p>
 <p align="center">
   <em> Solution space of a minimization problem with Pareto local search PLS</em>
@@ -17,7 +17,7 @@ This repository contains the code for the paper ```Pareto local search for a mul
 
 
 <p align="center">
-  <img src="https://github.com/thomasdengiz/MultiOpt_RL/assets/26788796/6f6f3958-c79d-42a2-9c33-a4e3c69b3b4c" alt="Schema_PALSS" style="width: 600px;"/>
+  <img src="https://github.com/user-attachments/assets/9aa2f44e-e2d3-472a-b363-6e27317e479b" alt="Schema_PALSS" style="width: 600px;"/>
 </p>
 <p align="center">
   <em> Schema of PALSS</em>
