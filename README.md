@@ -1,8 +1,9 @@
 ## Content
 This repository contains the code for the paper ```Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles``` by [ToDo: Add names and link]. In this paper, we introduce the Pareto local search method PALSS (Pareto local search for load shifting) with heuristic searchoperations to solve the multi-objective optimization problem of a residential area with different types of flexible loads. PALSS shifts the flexible electricity load with the objective of minimizing the electricity cost and peak load while maintaining the inhabitants’ comfort in favorable ranges. Further, we include reinforcement learning into the heuristic search operations in the approach RELAPALSS (Reinforcement learning assisted Pareto local search) and use the dichotomous method for obtaining all Pareto-optimal solutions of the multi-objective optimization problem with conflicting goals. Our introduces local search methods strongly outperform state-of-the-art metaheuristics like NSGA-II and SPEA-II. Further, the results reveal that integrating a reinforcement learning agent into the decision making improves the performance of local search based control problem for flexible devices like heat pumps and electric vehicles. 
 
+
 <p align="center">
-  <img src="https://github.com/thomasdengiz/MultiOpt_RL/assets/26788796/1dbbc6fd-35d6-458f-8d0b-d782e56f9262" alt="Residential_Area_Paper_PLS" style="width: 500px;"/>
+  <img src="https://github.com/user-attachments/assets/591a7eb2-6aa9-449a-b70f-ce868f5c85c8" alt="Residential_Area_Paper_PLS" style="width: 500px;"/>
 </p>
 <p align="center"><em> Residential area with three different building types</em></p>
 
@@ -13,6 +14,7 @@ This repository contains the code for the paper ```Pareto local search for a mul
 <p align="center">
   <em> Solution space of a minimization problem with Pareto local search PLS</em>
 </p>
+
 
 <p align="center">
   <img src="https://github.com/thomasdengiz/MultiOpt_RL/assets/26788796/6f6f3958-c79d-42a2-9c33-a4e3c69b3b4c" alt="Schema_PALSS" style="width: 600px;"/>
