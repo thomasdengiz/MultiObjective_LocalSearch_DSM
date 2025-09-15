@@ -102,7 +102,7 @@ For comparison, NSGA-II and SPEA-II have also been implemented in [this file](Py
 
 ## If you use this code, please cite the corresponding paper:
 
-**Thomas Dengiz, Andrea Raith, Max Kleinebrahm, Jonathan Vog, Wolf Fichtner** (2025):  
+**Thomas Dengiz, Andrea Raith, Max Kleinebrahm, Jonathan Vogl, Wolf Fichtner** (2025):  
 *Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles*,  
 _Energy_, Volume 335, 30 October 2025, 138063.  
 [https://doi.org/10.1016/j.egyai.2024.100441](https://doi.org/10.1016/j.energy.2025.138063)
