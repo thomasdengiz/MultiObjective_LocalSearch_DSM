@@ -1,5 +1,5 @@
 ## Content
-This repository contains the code for the paper ```Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles``` (the paper is currently under review and the preprint is available [here](https://arxiv.org/abs/2407.11719)). In this paper, we introduce the Pareto local search method PALSS (Pareto local search for load shifting) with heuristic search operations to solve the multi-objective optimization problem of a residential area with different types of flexible loads. PALSS shifts the flexible electricity load with the objective of minimizing the electricity cost and peak load while maintaining the inhabitants’ comfort in favorable ranges. Further, we include reinforcement learning into the heuristic search operations in the approach RELAPALSS (Reinforcement learning assisted Pareto local search) and use the dichotomous method for obtaining all Pareto-optimal solutions of the multi-objective optimization problem with conflicting goals. Our introduces local search methods strongly outperform state-of-the-art metaheuristics like NSGA-II and SPEA-II. Further, the results reveal that integrating a reinforcement learning agent into the decision making improves the performance of local search based control problem for flexible devices like heat pumps and electric vehicles. 
+This repository contains the code for the paper ```Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles```. The paper is published (open access) in the Journal [Energy](https://doi.org/10.1016/j.energy.2025.138063) and the preprint is available on [arXiv](https://arxiv.org/abs/2407.11719). In this paper, we introduce the Pareto local search method PALSS (Pareto local search for load shifting) with heuristic search operations to solve the multi-objective optimization problem of a residential area with different types of flexible loads. PALSS shifts the flexible electricity load with the objective of minimizing the electricity cost and peak load while maintaining the inhabitants’ comfort in favorable ranges. Further, we include reinforcement learning into the heuristic search operations in the approach RELAPALSS (Reinforcement learning assisted Pareto local search) and use the dichotomous method for obtaining all Pareto-optimal solutions of the multi-objective optimization problem with conflicting goals. Our introduces local search methods strongly outperform state-of-the-art metaheuristics like NSGA-II and SPEA-II. Further, the results reveal that integrating a reinforcement learning agent into the decision making improves the performance of local search based control problem for flexible devices like heat pumps and electric vehicles. 
 
 
 <p align="center">
@@ -98,5 +98,13 @@ Change parameters in [this file](SetUpScenarios.py) for the scenarios for the re
 
 ### NSGA-II and SPEA-II
 For comparison, NSGA-II and SPEA-II have also been implemented in [this file](PymooMOEA.py). This part is independent of the proposed PALSS and RELAPALSS algorithms.
+
+
+## If you use this code, please cite the corresponding paper:
+
+**Thomas Dengiz, Andrea Raith, Max Kleinebrahm, Jonathan Vog, Wolf Fichtner** (2025):  
+*Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles*,  
+_Energy_, Volume 335, 30 October 2025, 138063.  
+[https://doi.org/10.1016/j.egyai.2024.100441](https://doi.org/10.1016/j.energy.2025.138063)
 
 
