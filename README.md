@@ -72,7 +72,7 @@ See also the [notebook file](quick_start.ipynb) for examples of the main functio
   - Execute the function ```run_simulations(withRL = True)``` in the [Run_Simulations_Combined file](Run_Simulations_Combined.py) with `withRL = True`
     - Options:
       - Set up the days. The days should be different from those used for training. If `calculate_pareto_front_comparisons = True`, the days have to be in the list of those for which a Pareto Front was calculated. You can pass a list of days to the function.
-      - ...
+
 
 
 ### Other optimization methods
